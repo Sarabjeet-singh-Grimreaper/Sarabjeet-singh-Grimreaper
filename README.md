@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Engineering%20Roles-2ea44f?style=flat-square" alt="Open to work" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarabjeet-singh-Grimreaper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="190" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabjeet-singh-Grimreaper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top languages" />
-</p>
+## 📊 Profile Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarabjeet-singh-Grimreaper&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/Sarabjeet-singh-Grimreaper?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sarabjeet-singh-Grimreaper?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Repos-Active-181717?style=for-the-badge&logo=github&logoColor=white" alt="Active repos" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Python%20%7C%20SQL-8A2BE2?style=for-the-badge" alt="Focus area" />
 </p>
 
 ---
@@ -69,6 +69,12 @@ I’m a Computer Science graduate with a growing focus on artificial intelligenc
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
+
+### 🔥 What I’m Building
+- AI-powered and data-driven project work
+- Backend/API solutions with Python
+- Analytics workflows that turn raw data into insight
+- Portfolio projects with real-world problem solving
 
 ---
 
