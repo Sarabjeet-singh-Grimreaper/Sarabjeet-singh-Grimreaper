@@ -2,7 +2,6 @@
 
 > **AI • Data Analytics • Software Engineering • Python**
 
-This is a premium GitHub profile README tailored from the provided resume.
 
 ---
 
