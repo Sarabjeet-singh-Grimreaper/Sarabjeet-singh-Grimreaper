@@ -1,169 +1,248 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Sarabjeet+Singh;AI+%7C+Data+Analytics+%7C+Software+Engineering;Python+%7C+SQL+%7C+Backend+Development" alt="Typing animation" />
-</h1>
+<!-- =========================== HEADER ============================ -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarabjeet-singh-mail75" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Sarabjeet-singh-Grimreaper" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:sarabjeetsinghsagi2356@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sarabjeet-singh-Grimreaper&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Engineering%20Roles-2ea44f?style=flat-square" alt="Open to work" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sarabjeet%20Singh&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20Developer%20|%20Backend%20Developer%20|%20Data%20Analyst&descAlignY=62" />
 </p>
 
-## 📊 Profile Metrics
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Backend+Developer+using+Python+%26+FastAPI;Data+Analytics+%7C+Machine+Learning;Always+Learning+Something+New+🚀" />
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sarabjeet-singh-Grimreaper?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Sarabjeet-singh-Grimreaper?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Repos-Active-181717?style=for-the-badge&logo=github&logoColor=white" alt="Active repos" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Python%20%7C%20SQL-8A2BE2?style=for-the-badge" alt="Focus area" />
+
+<a href="https://www.linkedin.com/in/sarabjeet-singh-mail75">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sarabjeetsinghsagi2356@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sarabjeet-singh-Grimreaper">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1lFPWob7aJI2m32GbYilCgp2lgj-hcbvf/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
+</a>
+
 </p>
-
----
-
-## 👨‍💻 Professional Snapshot
-
-I’m a Computer Science graduate with a strong foundation in analytics, operations, and technology-driven problem solving. My path has evolved from data analysis into a broader interest in AI, backend development, and software engineering — with a focus on building practical, scalable, and intelligent solutions.
-
-### Quick Highlights
-- 🎓 B.Tech in Computer Science & Engineering from Quest Group of Institutions (IKGPTU)
-- 💼 Former Data Analyst at eClerx Services Ltd.
-- ⚙️ Former Field Specialist Trainee at Schlumberger
-- 🐍 Learning Python, SQL, AI, and backend development
-- 🌱 Building projects that blend analytics, automation, and software design
-
----
-
-## 🚀 Experience
-
-### Data Analyst — eClerx Services Limited
-- Analyzed 10,000+ service records using SQL and reporting workflows
-- Improved reporting accuracy and supported operational decision-making
-- Built hands-on experience in structured analysis and data-driven problem solving
-
-### Field Specialist Trainee — Schlumberger
-- Supported field operations with a strong emphasis on consistency and quality
-- Worked in high-accuracy industrial environments where reliability mattered
-- Strengthened discipline, problem solving, and execution under real-world constraints
-
-### Engineering Intern — BCC FUBA Pvt. Ltd.
-- Contributed to production optimization and engineering workflows
-- Gained visibility into manufacturing systems and process improvement
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-6A5ACD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-
-### 🔥 What I’m Building
-- AI-powered and data-driven project work
-- Backend/API solutions with Python
-- Analytics workflows that turn raw data into insight
-- Portfolio projects with real-world problem solving
-
----
-
-## 🏆 Highlights
-
-- BharatTech Hackathon 3.0
-- Code Sprint participation
-- BharatTech Xperience 2K26
-- Strong foundation in data-driven reasoning, reporting, and technical adaptability
-
----
-
-## 🎯 Current Focus
-
-- Advanced Python and backend development
-- AI/ML project experimentation
-- FastAPI and API design fundamentals
-- Cloud concepts and scalable software thinking
-- Open-source contributions and portfolio growth
-
----
-
-## 🌐 Connect
-
-- LinkedIn: [Sarabjeet Singh](https://www.linkedin.com/in/sarabjeet-singh-mail75)
-- GitHub: [Sarabjeet-singh-Grimreaper](https://github.com/Sarabjeet-singh-Grimreaper)
-- Email: [sarabjeetsinghsagi2356@gmail.com](mailto:sarabjeetsinghsagi2356@gmail.com)
-
----
-
-> “Transforming data, logic, and curiosity into software that solves real problems.”
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Sarabjeet+Singh;A+passionate+Python+developer;Python+%7C+SQL+%7C+Backend+Development" alt="Typing animation" />
-</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarabjeet-singh-mail75" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Sarabjeet-singh-Grimreaper" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://drive.google.com/file/d/1lFPWob7aJI2m32GbYilCgp2lgj-hcbvf/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Resume-2ea44f?style=for-the-badge" alt="Resume" />
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=Sarabjeet-singh-Grimreaper&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Sarabjeet-singh-Grimreaper?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Sarabjeet-singh-Grimreaper?style=for-the-badge"/>
+
 </p>
-
-## 👨‍💻 About Me
-
-I’m Sarabjeet Singh, a passionate Python developer focused on backend development, data analytics, and AI-powered solutions. I enjoy building practical projects that combine clean code, automation, and real-world problem solving.
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-</p>
-
-## 🌐 Connect
-
-- GitHub: [Sarabjeet-singh-Grimreaper](https://github.com/Sarabjeet-singh-Grimreaper)
-- LinkedIn: [Sarabjeet Singh](https://www.linkedin.com/in/sarabjeet-singh-mail75)
-- Resume: [View Resume](https://drive.google.com/file/d/1lFPWob7aJI2m32GbYilCgp2lgj-hcbvf/view?usp=drive_link)
-
-## 🎯 Current Focus
-
-- Python and backend development
-- SQL and data-driven workflows
-- AI/ML experimentation and automation
-- Building impactful portfolio projects
 
 ---
 
-> “Turning curiosity, logic, and data into practical software solutions.”
+# 👨‍💻 About Me
+
+I'm **Sarabjeet Singh**, a Computer Science Engineer passionate about developing **AI-powered software**, **backend systems**, and **data-driven applications**.
+
+My experience spans **Data Analytics**, **Machine Learning**, and **Backend Development**, where I enjoy solving real-world problems using clean, scalable, and efficient code.
+
+Currently, I'm focused on building production-ready AI applications while continuously improving my backend engineering skills.
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🐍 Advanced Python
+- ⚡ FastAPI
+- 🗄 SQL & Database Design
+- ☁ Cloud Computing
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- 🌍 Open Source
+
+---
+
+# 💼 Experience
+
+### 📊 Data Analyst | eClerx Services Ltd.
+
+- Worked with SQL datasets
+- Performed large-scale data analysis
+- Improved reporting workflows
+- Supported business decision making
+
+---
+
+### ⚙ Field Specialist Trainee | Schlumberger
+
+- Industrial Operations
+- Quality Assurance
+- Technical Documentation
+- Process Optimization
+
+---
+
+### 🏭 Engineering Intern | BCC FUBA Pvt. Ltd.
+
+- Production Optimization
+- Engineering Processes
+- Manufacturing Analytics
+
+---
+
+# 🚀 Featured Project
+
+## 📰 AI Fake News Detection System
+
+An intelligent fake news detection platform powered by Machine Learning.
+
+### Features
+
+- ✅ 30+ Stylometric Features
+- ✅ Chi-Square Feature Selection
+- ✅ Explainable AI Predictions
+- ✅ Domain Trust Analysis
+- ✅ Interactive Flask Dashboard
+- ✅ Confidence Scoring
+- ✅ ML Pipeline Optimization
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+
+</p>
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+## Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarabjeet-singh-Grimreaper&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabjeet-singh-Grimreaper&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sarabjeet-singh-Grimreaper&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarabjeet-singh-Grimreaper&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sarabjeet-singh-Grimreaper&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🏆 BharatTech Hackathon 3.0
+
+🏆 BharatTech Xperience 2K26
+
+🏆 Code Sprint Participant
+
+🏆 AI & Machine Learning Enthusiast
+
+🏆 Backend Development Learner
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sarabjeetsinghsagi2356@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarabjeet-singh-mail75">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Sarabjeet-singh-Grimreaper">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *"Building software that transforms data into intelligent decisions."*
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
+
+</p>
