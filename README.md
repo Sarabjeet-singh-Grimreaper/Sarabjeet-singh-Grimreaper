@@ -175,7 +175,6 @@ An intelligent fake news detection platform powered by Machine Learning and Expl
 
 # 🏅 Achievements
 
-- 🏆 **Winner / Participant:** BharatTech Hackathon 3.0
 - 🏆 **Participant:** BharatTech Xperience
 - 🏆 **Competitor:** Code Sprint Coding Competition
 - 🏆 **Continuous Learner:** AI, Machine Learning, and Cloud System Architecture
