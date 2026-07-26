@@ -9,33 +9,24 @@
 </h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sarabjeet-singh-mail75">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sarabjeetsinghsagi2356@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sarabjeet-singh-Grimreaper">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1lFPWob7aJI2m32GbYilCgp2lgj-hcbvf/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sarabjeet-singh-mail75">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sarabjeetsinghsagi2356@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sarabjeet-singh-Grimreaper">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1lFPWob7aJI2m32GbYilCgp2lgj-hcbvf/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge"/>
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sarabjeet-singh-Grimreaper&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/Sarabjeet-singh-Grimreaper?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Sarabjeet-singh-Grimreaper?style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Sarabjeet-singh-Grimreaper&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/Sarabjeet-singh-Grimreaper?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Sarabjeet-singh-Grimreaper?style=for-the-badge"/>
 </p>
 
 ---
@@ -52,109 +43,99 @@ Currently, I'm focused on building production-ready AI applications while contin
 
 # 🚀 Current Focus
 
-- 🤖 Artificial Intelligence
-- 🐍 Advanced Python
-- ⚡ FastAPI
-- 🗄 SQL & Database Design
-- ☁ Cloud Computing
-- 📊 Data Analytics
-- 🧠 Machine Learning
-- 🌍 Open Source
+- 🤖 Artificial Intelligence & Automata
+- 🐍 Advanced Python & AI Integrations
+- ⚡ FastAPI & Scalable Backend Architecture
+- 🗄 SQL & Database Design Optimization
+- ☁ Cloud Computing & Microservices
+- 📊 Data Analytics & Automated Pipelines
+- 🧠 Machine Learning & Model Deployment
+- 🌍 Open Source Contributions
 
 ---
 
 # 💼 Experience
 
 ### 📊 Data Analyst | eClerx Services Ltd.
-
-- Worked with SQL datasets
-- Performed large-scale data analysis
-- Improved reporting workflows
-- Supported business decision making
+- Managed and queried complex relational datasets using **SQL** to extract key business insights.
+- Performed large-scale data analysis to identify trends and operational bottlenecks.
+- Streamlined and improved internal reporting workflows, reducing manual effort.
+- Delivered data-backed recommendations to support strategic decision-making.
 
 ---
 
 ### ⚙ Field Specialist Trainee | Schlumberger
-
-- Industrial Operations
-- Quality Assurance
-- Technical Documentation
-- Process Optimization
+- Participated in critical industrial operations ensuring strict compliance and safety standards.
+- Executed quality assurance protocols across technical setups and client deliverables.
+- Prepared comprehensive technical documentation and system performance logs.
+- Collaborated on process optimization initiatives to improve field operational efficiency.
 
 ---
 
 ### 🏭 Engineering Intern | BCC FUBA Pvt. Ltd.
+- Evaluated production lines to identify areas for engineering and workflow optimization.
+- Conducted manufacturing data analysis to track operational throughput and defect rates.
+- Supported cross-functional engineering teams in implementing process improvements.
 
-- Production Optimization
-- Engineering Processes
-- Manufacturing Analytics
+---
+
+# 🎖️ Google Certifications & Developer Profiles
+
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/10e580d4-fa0b-4baf-904f-ffc9c3fdc3d8" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+  <a href="https://me.developers.google.com/u/102057437304746628751" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Developer_Program-Profile-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 # 🚀 Featured Project
 
 ## 📰 AI Fake News Detection System
+An intelligent fake news detection platform powered by Machine Learning and Explainable AI.
 
-An intelligent fake news detection platform powered by Machine Learning.
-
-### Features
-
-- ✅ 30+ Stylometric Features
-- ✅ Chi-Square Feature Selection
-- ✅ Explainable AI Predictions
-- ✅ Domain Trust Analysis
-- ✅ Interactive Flask Dashboard
-- ✅ Confidence Scoring
-- ✅ ML Pipeline Optimization
+### Key Features
+- ✅ **30+ Stylometric Features:** Deep textual and stylistic linguistic analysis.
+- ✅ **Feature Selection:** Optimized using Chi-Square Statistical Filtering.
+- ✅ **Explainable AI (XAI):** Clear, interpretable model decision breakdowns.
+- ✅ **Domain Trust Analysis:** Automated credibility checking for news sources.
+- ✅ **Interactive Dashboard:** Seamless UI built using Flask.
+- ✅ **Confidence Scoring:** Real-time probability outputs for prediction accuracy.
+- ✅ **ML Pipeline:** Fully automated data preprocessing and evaluation flow.
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming Languages
-
+### Programming Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 </p>
 
-## Backend
-
+### Backend & Web Frameworks
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-
+  <img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 </p>
 
-## Databases
-
+### Databases
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-## Tools
-
+### Developer Tools & OS
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-## Libraries
-
+### Libraries & Frameworks
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
+  <img src="https://skillicons.dev/icons?i=tensorflow"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 </p>
 
 ---
@@ -162,11 +143,8 @@ An intelligent fake news detection platform powered by Machine Learning.
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarabjeet-singh-Grimreaper&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabjeet-singh-Grimreaper&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarabjeet-singh-Grimreaper&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabjeet-singh-Grimreaper&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -174,9 +152,7 @@ An intelligent fake news detection platform powered by Machine Learning.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sarabjeet-singh-Grimreaper&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Sarabjeet-singh-Grimreaper&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -184,9 +160,7 @@ An intelligent fake news detection platform powered by Machine Learning.
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarabjeet-singh-Grimreaper&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarabjeet-singh-Grimreaper&theme=tokyo-night"/>
 </p>
 
 ---
@@ -194,55 +168,40 @@ An intelligent fake news detection platform powered by Machine Learning.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarabjeet-singh-Grimreaper&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarabjeet-singh-Grimreaper&theme=tokyonight&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
 
 # 🏅 Achievements
 
-🏆 BharatTech Hackathon 3.0
-
-🏆 BharatTech Xperience 2K26
-
-🏆 Code Sprint Participant
-
-🏆 AI & Machine Learning Enthusiast
-
-🏆 Backend Development Learner
+- 🏆 **Winner / Participant:** BharatTech Hackathon 3.0
+- 🏆 **Participant:** BharatTech Xperience
+- 🏆 **Competitor:** Code Sprint Coding Competition
+- 🏆 **Continuous Learner:** AI, Machine Learning, and Cloud System Architecture
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:sarabjeetsinghsagi2356@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sarabjeet-singh-mail75">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Sarabjeet-singh-Grimreaper">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="mailto:sarabjeetsinghsagi2356@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sarabjeet-singh-mail75">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com/Sarabjeet-singh-Grimreaper">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### ⭐ *"Building software that transforms data into intelligent decisions."*
-
+  <h3>⭐ <i>"Building software that transforms data into intelligent decisions."</i></h3>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
 </p>
