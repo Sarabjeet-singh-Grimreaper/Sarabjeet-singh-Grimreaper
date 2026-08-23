@@ -1,14 +1,18 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         HEADER                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,30:302b63,60:24243e,100:7C3AED&text=Sarabjeet%20Singh&fontSize=60&fontAlignY=40&animation=fadeIn&desc=AI%20Developer%20%7C%20Backend%20Engineer%20%7C%20Data%20Analyst&descAlignY=62&fontColor=FFFFFF&descColor=C4B5FD&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,30:302b63,60:24243e,100:7C3AED&text=Sarabjeet%20Singh&fontSize=60&fontAlignY=40&animation=fadeIn&desc=AI%20Developer%20%7C%20Backend%20Engineer%20%7C%20Data%20Analyst&descAlignY=62&fontColor=FFFFFF&descColor=C4B5FD&descSize=20"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+Building+AI-Powered+Applications;🐍+Python+%7C+FastAPI+%7C+Backend+Engineering;📊+Data+Analytics+%7C+Machine+Learning;🧠+Explainable+AI+%7C+Intelligent+Systems;☁️+Cloud+%7C+APIs+%7C+Data+Pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+Building+AI-Powered+Applications;🐍+Python+%7C+FastAPI+%7C+Backend+Engineering;📊+Data+Analytics+%7C+Machine+Learning;🧠+Explainable+AI+%7C+Intelligent+Systems;☁️+Cloud+%7C+APIs+%7C+Data+Pipelines"/>
 
 </div>
 
@@ -54,7 +58,11 @@
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         ABOUT ME                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧠 Who Am I?
 
@@ -134,11 +142,19 @@ print(
 )
 ```
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+<!--                       TECH STACK                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 ### 🐍 Programming Languages
 
@@ -159,15 +175,22 @@ print(
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark"/>
 </p>
 
-### 🤖 AI / ML & Data
+### 🤖 AI / ML & Data Science
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/XAI-LIME%20%2F%20SHAP-7C3AED?style=flat-square"/>
+
 </p>
 
 ### 🧰 Development Tools
@@ -179,13 +202,24 @@ print(
 ### ☁️ Cloud & DevOps
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=gcp&theme=dark"/>
+
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
 </p>
+
+</div>
+
+<br/>
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       PROJECTS                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -196,7 +230,9 @@ print(
 
 <h3>📰 AI Fake News Detection System</h3>
 
-<p><em>Machine Learning system for detecting potentially misleading news with Explainable AI.</em></p>
+<p>
+<em>Machine Learning system for detecting potentially misleading news with Explainable AI.</em>
+</p>
 
 <ul>
 <li>Extracts stylometric and linguistic features from news articles</li>
@@ -208,20 +244,28 @@ print(
 </ul>
 
 <p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/XAI-7C3AED?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🏫 AI-Integrated College ERP</h3>
+<h3>🏫 AI-Integrated College ERP Platform</h3>
 
-<p><em>Full-stack academic management platform with analytics and automation.</em></p>
+<p>
+<em>Full-stack academic management platform with analytics and automation.</em>
+</p>
 
 <ul>
 <li>Student attendance and performance analytics</li>
@@ -233,10 +277,15 @@ print(
 </ul>
 
 <p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
 </p>
 
 </td>
@@ -244,13 +293,20 @@ print(
 </tr>
 </table>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       EXPERIENCE                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💼 Experience
 
 <table width="100%">
+
 <tr>
 
 <td valign="top" width="50%">
@@ -269,9 +325,13 @@ print(
 </ul>
 
 <p>
+
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Data_Analysis-F59E0B?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Reporting-7C3AED?style=flat-square"/>
+
 </p>
 
 </td>
@@ -292,9 +352,13 @@ print(
 </ul>
 
 <p>
+
 <img src="https://img.shields.io/badge/Technical_Operations-10B981?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Documentation-64748B?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Process_Improvement-F59E0B?style=flat-square"/>
+
 </p>
 
 </td>
@@ -338,11 +402,18 @@ print(
 </td>
 
 </tr>
+
 </table>
+
+<br/>
 
 ---
 
-<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CERTIFICATIONS                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎖️ Certifications & Profiles
 
@@ -356,11 +427,21 @@ print(
 <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://drive.google.com/file/d/1lFPWob7aJI2m32GbYilCgp2lgj-hcbvf/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 </div>
+
+<br/>
 
 ---
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                     GITHUB STATS                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
@@ -380,27 +461,43 @@ print(
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CONTRIBUTION SNAKE                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarabjeet-singh-Grimreaper/Sarabjeet-singh-Grimreaper/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarabjeet-singh-Grimreaper/Sarabjeet-singh-Grimreaper/output/github-contribution-grid-snake.svg">
-<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sarabjeet-singh-Grimreaper/Sarabjeet-singh-Grimreaper/output/github-contribution-grid-snake.svg">
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarabjeet-singh-Grimreaper/Sarabjeet-singh-Grimreaper/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarabjeet-singh-Grimreaper/Sarabjeet-singh-Grimreaper/output/github-contribution-grid-snake.svg"/>
+
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sarabjeet-singh-Grimreaper/Sarabjeet-singh-Grimreaper/output/github-contribution-grid-snake.svg"/>
+
 </picture>
 
 </div>
 
-> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to your repository to generate the contribution snake with GitHub Actions.
+> ⚙️ **Setup:** Add `.github/workflows/snake.yml` to your repository to generate the contribution snake using GitHub Actions.
+
+<br/>
 
 ---
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    ACTIVITY GRAPH                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Graph
 
@@ -410,9 +507,15 @@ print(
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         TROPHIES                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
@@ -422,9 +525,15 @@ print(
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ CURRENTLY LEARNING ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CURRENTLY LEARNING                         -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📚 Currently Learning
 
@@ -436,9 +545,15 @@ print(
 | 🔴 **Redis**        | Caching and real-time applications  |
 | 📨 **Apache Kafka** | Event streaming and data pipelines  |
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       CORE SKILLS                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📡 Core Skills
 
@@ -451,16 +566,20 @@ Flask              █████████████░░░░░░░ 
 Machine Learning   ████████████░░░░░░░░  Intermediate
 TensorFlow         ██████████░░░░░░░░░░  Learning
 Docker             ████████░░░░░░░░░░░░  Learning
-Cloud               ████████░░░░░░░░░░░░  Learning
+Cloud              ████████░░░░░░░░░░░░  Learning
 ```
+
+<br/>
 
 ---
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                  ACHIEVEMENTS & ACTIVITIES                     -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏅 Achievements & Activities
-
-<div align="center">
 
 | Achievement                      | Details                                         |
 | -------------------------------- | ----------------------------------------------- |
@@ -470,11 +589,15 @@ Cloud               ████████░░░░░░░░░░░░
 | 🤖 **AI Projects**               | Machine Learning and Explainable AI projects    |
 | 📊 **Data Analytics Experience** | Professional experience at eClerx Services Ltd. |
 
-</div>
+<br/>
 
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         CONNECT                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📫 Let's Build Something Together
 
@@ -508,6 +631,7 @@ Cloud               ████████░░░░░░░░░░░░
 <td align="center">📍 <strong>Location</strong></td>
 <td>India 🇮🇳 · Open to remote opportunities</td>
 </tr>
+
 </table>
 
 <br/>
@@ -518,15 +642,13 @@ Cloud               ████████░░░░░░░░░░░░
 
 <strong>— Sarabjeet Singh</strong>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <sub>💜 If you find my work useful, consider leaving a ⭐</sub>
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:7C3AED,50:4F46E5,100:06B6D4&fontColor=ffffff"/>
 
